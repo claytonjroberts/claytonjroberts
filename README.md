@@ -4,8 +4,8 @@ My name is Clayton.
 
 I like motorcycles, photography, rock climbing, and various other things.
 
-To reach me for coding & career stuff -> <https://claytonjroberts.com>
-To reach me for photography stuff -> <https://claymasterj.com>
+- To reach me for coding & career stuff -> <https://claytonjroberts.com>
+- To reach me for photography stuff -> <https://claymasterj.com>
 
 <!---
 ClaymasterJ/ClaymasterJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
