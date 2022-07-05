@@ -1,13 +1,8 @@
-# 👋 Hi
+# Whats up? 🤙🏻
 
 My name is Clayton.
 
-I like motorcycles, photography, rock climbing, and various other things.
+I like motorcycles, photography, rock climbing, and airplane piloting.
 
 - To reach me for coding & career stuff -> <https://claytonjroberts.com>
 - To reach me for photography stuff -> <https://claymasterj.com>
-
-<!---
-ClaymasterJ/ClaymasterJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
