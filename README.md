@@ -4,4 +4,4 @@ My name is Clayton.
 
 I like motorcycles, photography, rock climbing, airplane piloting and coding in Python 🐍.
 
-<https://claytonjroberts.com>
+[LinkedIn](https://www.linkedin.com/in/claytonjroberts/)
